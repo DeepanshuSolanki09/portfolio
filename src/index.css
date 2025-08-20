@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*::-webkit-scrollbar { display: none; }
+
+#root{
+  height: 100dvh;
+  width: 100dvw;
+}
+body{
+  overflow-x: hidden;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: 'MYFONT';
+  src: url('/Black Witcher.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "MYFONT2";
+  src: url('../public/HappyHalloween.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "MYFONT3";
+  src: url('public/October Crow.ttf') format('opentype');
+}
