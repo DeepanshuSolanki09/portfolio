@@ -24,10 +24,10 @@ body{
 
 @font-face {
   font-family: "MYFONT2";
-  src: url('../public/HappyHalloween.otf') format('opentype');
+  src: url('/HappyHalloween.otf') format('opentype');
 }
 
 @font-face {
   font-family: "MYFONT3";
-  src: url('public/October Crow.ttf') format('opentype');
+  src: url('/October Crow.ttf') format('opentype');
 }
