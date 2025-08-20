@@ -46,7 +46,7 @@ function App() {
       {loader ? (
         <div className="h-dvh w-screen absolute z-20 bg-black loaderclass">
           <video
-            src="public/1755705305173183expMp4.mp4"
+            src="/1755705305173183expMp4.mp4"
             autoPlay
             muted
             loop
