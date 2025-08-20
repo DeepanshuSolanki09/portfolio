@@ -64,7 +64,7 @@ const Model = ({setshow,setprjects,setcontact,setloader}) => {
         color="white"
         anchorX="center"
         anchorY="middle"
-        font="public/Black Witcher.otf"
+        font="/Black Witcher.otf"
         position={[0, -2.2, 1]}
       >
         DEEPANSHU SOLANKI
@@ -73,7 +73,7 @@ const Model = ({setshow,setprjects,setcontact,setloader}) => {
         color="white"
         anchorX="center"
         anchorY="middle"
-        font="public/Black Witcher.otf"
+        font="/Black Witcher.otf"
         position={[0, -3.2, 1]}
       >
         I'm Web Developer
@@ -82,7 +82,7 @@ const Model = ({setshow,setprjects,setcontact,setloader}) => {
         color="white"
         anchorX="center"
         anchorY="middle"
-        font="public/Black Witcher.otf"
+        font="/Black Witcher.otf"
         position={[0, -6.2, 1]}
         onClick={() => setshow(true)}
       >
@@ -92,7 +92,7 @@ const Model = ({setshow,setprjects,setcontact,setloader}) => {
         color="white"
         anchorX="center"
         anchorY="middle"
-        font="public/Black Witcher.otf"
+        font="/Black Witcher.otf"
         position={[0, -7.2, 1]}
         onClick={() => setprjects(true)}
       >
@@ -102,7 +102,7 @@ const Model = ({setshow,setprjects,setcontact,setloader}) => {
         color="white"
         anchorX="center"
         anchorY="middle"
-        font="public/Black Witcher.otf"
+        font="/Black Witcher.otf"
         position={[0, -8.2, 1]}
         onClick={() => setcontact(true)}
       >
